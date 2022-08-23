@@ -1,0 +1,15 @@
+
+
+Reference Link: https://www.mitrais.com/news-updates/devops-ci-cd-with-github-jenkins-and-amazon-web-services/
+
+Steps To Integrate
+
+* Launch & Install Code Deploy
+* Configure AWS Codedeploy
+* Create deployment group
+* Select Service Role
+* Select EC2 Instance for the Deployment
+* Create & add appspec.yml in the repository
+ * Configure Github hook with Jenkins
+
+
